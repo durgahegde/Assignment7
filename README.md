@@ -1,2 +1,2 @@
 # Assignment7
- Jacascript Programs
+ Javascript Programs using Function, Arrays, Event handler concept.
